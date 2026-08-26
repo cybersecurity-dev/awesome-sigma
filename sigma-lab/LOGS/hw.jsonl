@@ -1,1 +1,3 @@
-
+{"process":{"name":"bash","executable":"/bin/bash"}}
+{"process":{"name":"sshd","executable":"/usr/sbin/sshd"}}
+{"process":{"name":"open_port","executable":"/usr/sbin/open_port"}}
